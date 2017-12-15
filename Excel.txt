@@ -1,0 +1,15 @@
+Sum
+Average
+Count
+Counta = Counts the number of cells in a range that are NOT empty
+Concatenate
+IF  IF(D3="India","Hindi","Other Language")
+Countif   = Counts the number of cells within the range that meet the given
+condition
+Vlookup = 
+=vlookup(O3,C2:F11,4,0)
+(lookup_value,table_array,col_index_num,range_lookup)
+DropDown
+Sumif
+(range,criteria, sum_range)
+

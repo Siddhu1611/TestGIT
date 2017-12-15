@@ -1,6 +1,3 @@
-Sum
-Average
-Count
 Counta = Counts the number of cells in a range that are NOT empty
 Concatenate
 IF  IF(D3="India","Hindi","Other Language")

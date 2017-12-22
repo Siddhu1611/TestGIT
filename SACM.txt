@@ -1,0 +1,30 @@
+CSI Register - Contains all the information for the Overall Service Provider and it's a part of SKMS 
+All the Initiatives are captured and recorded.
+
+
+The purpose of the Seven Step improvement process is to:
+identify
+define
+gather
+analyze
+present
+implement improvements
+
+SACM:  The Service Assets required to deliver the services are properly controlled, and that accurate and reliable information about the Assets is available when and where needed.
+
+Objectives:
+1. The Services Assets are identified, controlled and taken care through out the Life Cycle of the process
+2. Identify, control, report, audit and verify the services and other CI's including versions,baselines, components, attributes and relationships
+3. Protect the Integrity of CI's to ensure only authorized components are used and authorized changes are made through Change management process
+4. Ensure the Integrity of CI's and maintain the CMS
+
+What are the Roles in SACM?
+1. Service Asset Manager
+Manages the Standards in the Asset Management System
+Evaluates the standard tools
+
+2. Configuration Manager
+Manage the CMS, Central libraries, tools, housekeeping of CMS
+
+
+
